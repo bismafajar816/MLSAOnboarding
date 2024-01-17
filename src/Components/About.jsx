@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Web design",
   "Poster design",
-  "",
-  "",
+  "Hardware design",
+  "UI/UX design",
   "Mobile user interfaces",
   "Graphic design",
 ];
