@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://bismafajar.github.io/MLSAOnboarding'",
+    "build-gh": "parcel build --public-url 'https://bismafajar816.github.io/MLSAOnboarding'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
