@@ -27,12 +27,13 @@ const siteProps = {
   name: "Bisma Fajar",
   title: "Web Designer & Content Creator",
   email: "bismafajar816@gmail.com",
+  outlook: "bisma.fajar@studentambassadors.com",
   gitHub: "https://github.com/bismafajar816",
   instagram: "https://www.instagram.com/bismafajar816/",
   linkedIn: "https://www.linkedin.com/in/bisma-fajar-b37397267/",
   medium: "",
   twitter: "https://www.youtube.com/channel/UCCbXgj0QGVsljFJc6PKo0nQ",
-  youTube: "Code",
+  youTube: "https://www.youtube.com/channel/UCCbXgj0QGVsljFJc6PKo0nQ",
 };
 
 const primaryColor = "#4E567E";
